@@ -1,0 +1,243 @@
+body {
+  font-family: "Montserrat";
+}
+
+.rowTitle {
+  background-color: #002C4D;
+  padding: 10px;
+  margin: 0;
+}
+
+.rowFEATURES {
+  /* background-color: #0F2D51; */
+  background-image: radial-gradient(#051E3E, #0A2B54);
+  text-align: center;
+  padding: 90px 0 80px;
+}
+
+#SpeakerImageSection {
+  background-image: radial-gradient(#005587, #000A1E);
+
+
+}
+
+
+
+.carousel-inner {
+text-align: center;
+
+}
+
+.imagecap {
+  font-family: Dosis;
+
+  background-color: ;
+}
+
+.SI-H1{
+  font-size: 40px;
+  padding: 2% 0 2%;
+}
+
+#SI{
+
+width: 32%;
+padding-bottom: 8%;
+
+}
+
+#ush {
+  background-image: radial-gradient(#005587, #000A1E);
+  text-align: center;
+}
+
+#Usherimg {
+  width: 70%;
+  height: auto;
+  padding-top: 15%;
+}
+
+#Usherimg:hover {
+  width: 75%;
+  height: auto;
+  padding-top: 15%;
+}
+
+#title {
+  background-image: radial-gradient(#002136, #000000);
+}
+
+#features {
+  background-color: #064F6A;
+  color: #FF4900;
+  font-weight: bold;
+  text-shadow: 0 0 20px #000000;
+}
+
+
+#utext {
+  color: #C72353;
+}
+
+
+
+#gif {
+  width: 99%;
+  height: auto;
+}
+
+#audio {}
+
+#footer {
+  background-color: #011623;
+  font-family: "Dosis";
+  font-weight: normal;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  padding: 25px 0 20px;
+  color: #fff;
+}
+
+#founder{
+
+background-image: radial-gradient(#005587, #000A1E);
+
+  text-align: center;
+}
+
+#founderImage{
+  width: 35%;
+  height: auto;
+padding-top: 20%;
+}
+
+#founderImage:hover{
+  width: 38%;
+  height: auto;
+  padding-top: 20%;
+}
+
+#founderTxt{
+  font-family: "Courgette";
+  color: #fff;
+  padding: 30px;
+}
+#Myspeaker{
+    width: 60%;
+    height: auto;
+  }
+
+.container-fluid {
+  padding: 1% 3% 2%;
+}
+
+/* "HEADINGS SECTION" */
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight: 900;
+  color: #2DE600;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+p {
+  color: #EAEAEA;
+  font-weight: normal;
+}
+
+/* "BUTTONS SECTION" */
+.Dbut {
+  margin: 3% 5% 5% 0;
+}
+
+.iconfea {
+  color: #FF4900;
+  font-size: 4rem;
+  padding-bottom: 10px;
+  border: inset #FF4900 10;
+}
+
+.iconfea:hover {
+  color: #E80000;
+}
+
+/* buttons {
+  background: #094353;
+background-image: -webkit-linear-gradient(top, #094353, #00213B);
+background-image: -moz-linear-gradient(top, #094353, #00213B);
+background-image: -ms-linear-gradient(top, #094353, #00213B);
+background-image: -o-linear-gradient(top, #094353, #00213B);
+background-image: -webkit-gradient(to bottom, #094353, #00213B);
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 14px;
+   font-weight: 300;
+   padding: 5px;
+   -webkit-box-shadow: inset 0 1px 7px 0 #000000;
+   -moz-box-shadow: inset 0 1px 7px 0 #000000;
+   box-shadow: inset 0 1px 7px 0 #000000;
+   text-shadow: 0 1px 20px #0059A0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+button:hover {
+   background: #17D600;
+   border: solid #17D600 1;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   text-decoration: none;
+} */
+.navbar {
+  padding: 0 50px 0 50px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-size: 16px;
+}
+
+
+.footerICONS {
+font-size: 30px;
+margin: 0 10px;
+padding: 0 0 1% 0;
+}
+
+.FfooterICONS:hover {
+  color: #123DC4;
+}
+
+.IfooterICONS:hover {
+  color: #C00DD5;
+}
+
+.PfooterICONS:hover {
+  color: #D31818;
+}
